@@ -2,319 +2,106 @@
 
 # SANJAY KUMAR DAHARE
 
-### `FULL-STACK DEVELOPER • BUILDER • PROBLEM SOLVER`
+### Computer Science Student · Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Turning+ideas+into+working+products.;Building+real-world+web+applications.;React+%2B+Node.js+%2B+PostgreSQL.;Always+learning.+Always+building." />
+Building practical web applications with modern technologies.
 
-<br/>
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github)](https://github.com/sanjaykumardahare2003-web)
-[![Profile Views](https://komarev.com/ghpvc/?username=sanjaykumardahare2003-web\&style=flat-square\&label=PROFILE+VIEWS)](https://github.com/sanjaykumardahare2003-web)
+<a href="https://github.com/sanjaykumardahare2003-web">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://github.com/sanjaykumardahare2003-web?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore-0969DA?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=650&lines=Building+real-world+applications;React+%7C+TypeScript+%7C+Node.js;PostgreSQL+%7C+REST+APIs;Learn+%E2%86%92+Build+%E2%86%92+Ship" />
 
 </div>
 
 ---
 
-## `01` — WHO AM I?
+## About
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  SANJAY KUMAR DAHARE                                       │
-│                                                             │
-│  Computer Science Student                                  │
-│  Full-Stack Developer in Progress                          │
-│                                                             │
-│  I build practical applications that solve real problems.  │
-│  I learn by creating, debugging, deploying and improving.  │
-│                                                             │
-│  CURRENT FOCUS                                             │
-│  ├── Modern Web Development                                │
-│  ├── Backend & REST APIs                                   │
-│  ├── PostgreSQL & Database Systems                         │
-│  ├── Cloud Deployment                                      │
-│  └── AI-powered Applications                               │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+I'm a Computer Science student interested in **full-stack development, backend systems, databases, and cloud deployment**.
+
+I enjoy taking an idea from an initial concept to a working application — designing the interface, building the backend, connecting the database, testing the system, and deploying it.
+
+My current focus is on becoming a stronger **full-stack developer** by building real-world projects and improving my understanding of software architecture.
 
 ---
 
-## `02` — TECHNOLOGY STACK
+# Tech Stack
 
-<div align="center">
+### Frontend
 
-### FRONTEND
-
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" />
+</p>
 
-### BACKEND & DATABASE
+### Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,postgres,mysql" />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
 
-### TOOLS & PLATFORMS
+### Databases
 
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### Tools & Platforms
+
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,vercel" />
-
-</div>
+</p>
 
 ---
 
-## `03` — FLAGSHIP PROJECT
+# Featured Project
 
-<div align="center">
+## Mehta Paints & Hardware
 
-# 🎨 MEHTA PAINTS & HARDWARE
+**A full-stack digital platform developed for a real-world paint and hardware business.**
 
-### `REAL BUSINESS • REAL PRODUCT • REAL-WORLD IMPACT`
+The project combines customer-facing features with business management functionality.
 
-</div>
+### Highlights
 
-A full-stack digital platform developed for a real-world paint & hardware business.
-
-Instead of building another demo application, this project focuses on solving **actual business requirements**.
-
-### What it includes
-
-| Module                  | Description                            |
-| :---------------------- | :------------------------------------- |
-| 🛍️ **Product System**  | Product catalogue & management         |
-| 🎨 **Shade Experience** | Paint shade selection                  |
-| 🔐 **Admin System**     | Secure administrative controls         |
-| 📦 **Orders**           | Order & enquiry management             |
-| 📱 **WhatsApp**         | Customer communication workflow        |
-| 📊 **Analytics**        | Business management insights           |
-| ☁️ **Deployment**       | Cloud-hosted production architecture   |
-| 📱 **PWA**              | Mobile-friendly application experience |
+- Product catalogue and product management
+- Paint shade selection
+- Admin dashboard
+- Authentication and protected administration
+- Order and enquiry management
+- WhatsApp-based customer communication
+- Business management features
+- Responsive user interface
+- Progressive Web App support
+- Cloud deployment
 
 ### Architecture
 
-```text
-                         USER
-                          │
-                          ▼
-              ┌─────────────────────┐
-              │      REACT APP      │
-              │   Vite + Tailwind   │
-              └──────────┬──────────┘
-                         │
-                         │ REST API
-                         ▼
-              ┌─────────────────────┐
-              │    NODE / EXPRESS   │
-              │    Backend Server   │
-              └──────────┬──────────┘
-                         │
-                         │ ORM
-                         ▼
-              ┌─────────────────────┐
-              │     POSTGRESQL      │
-              │    Drizzle ORM      │
-              └─────────────────────┘
-```
+```mermaid
+flowchart LR
 
-**Built with**
+    Customer["Customer"]
 
-`React` · `TypeScript` · `Tailwind CSS` · `Vite`
-`Node.js` · `Express.js` · `PostgreSQL` · `Drizzle ORM`
+    Frontend["React Frontend<br/>Vite + Tailwind"]
 
----
+    API["REST API"]
 
-## `04` — OTHER BUILDS
+    Backend["Node.js + Express"]
 
-### 🤖 Live Chatbot
+    Database[("PostgreSQL<br/>Drizzle ORM")]
 
-Exploring conversational interfaces, AI concepts and web integration.
+    Admin["Admin Dashboard"]
 
-`Python` `AI` `Web`
-
----
-
-### 🚦 Traffic Violation Application
-
-A web application concept for managing traffic violation information.
-
-`PHP` `MySQL`
-
----
-
-### 🎓 Scholarship Portal
-
-A modern web application concept for scholarship-related workflows.
-
-`React` `Tailwind CSS`
-
----
-
-### 📱 Android Applications
-
-Mobile applications developed while exploring Android development.
-
-`Java` `Android Studio`
-
----
-
-## `05` — DEVELOPMENT JOURNEY
-
-```text
-HTML / CSS
-    │
-    ▼
-JavaScript
-    │
-    ▼
-PHP + MySQL
-    │
-    ▼
-Java + Android
-    │
-    ▼
-React + TypeScript
-    │
-    ▼
-Node.js + Express
-    │
-    ▼
-PostgreSQL + Drizzle
-    │
-    ▼
-Cloud Deployment
-    │
-    ▼
-Full-Stack Development
-    │
-    ▼
-        🚀
-```
-
----
-
-## `06` — CURRENTLY BUILDING
-
-```javascript
-const focus = {
-    learning: [
-        "Advanced React",
-        "TypeScript",
-        "Backend Architecture",
-        "PostgreSQL",
-        "System Design"
-    ],
-
-    exploring: [
-        "AI Integration",
-        "Cloud Deployment",
-        "Production Applications"
-    ],
-
-    goal: "Build software people actually use."
-};
-```
-
----
-
-## `07` — GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sanjaykumardahare2003-web&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykumardahare2003-web&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
-
-</div>
-
----
-
-## `08` — CONTRIBUTION FLOW
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaykumardahare2003-web&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
-## `09` — THE BUILD LOOP
-
-<div align="center">
-
-```text
-        ┌──────────┐
-        │   IDEA   │
-        └────┬─────┘
-             ↓
-        ┌──────────┐
-        │   BUILD  │
-        └────┬─────┘
-             ↓
-        ┌──────────┐
-        │   TEST   │
-        └────┬─────┘
-             ↓
-        ┌──────────┐
-        │  DEBUG   │
-        └────┬─────┘
-             ↓
-        ┌──────────┐
-        │  DEPLOY  │
-        └────┬─────┘
-             ↓
-        ┌──────────┐
-        │ IMPROVE  │
-        └────┬─────┘
-             │
-             └──────────→ REPEAT
-```
-
-</div>
-
----
-
-## `10` — TERMINAL
-
-```bash
-┌──(sanjay㉿github)-[~/development]
-└─$ ./about.sh
-
-> Initializing...
-
-Name        : Sanjay Kumar Dahare
-Role        : Computer Science Student
-Focus       : Full-Stack Development
-Primary     : React / Node / PostgreSQL
-Environment : Windows / VS Code
-Status      : ● ONLINE
-
-> Ready to build.
-```
-
----
-
-## `11` — CONNECT
-
-<div align="center">
-
-<a href="https://github.com/sanjaykumardahare2003-web">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-**More projects. More experiments. More things to build.**
-
-</div>
-
----
-
-<div align="center">
-
-### `BUILD SOMETHING THAT MATTERS.`
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
-
-</div>
+    Customer --> Frontend
+    Frontend --> API
+    API --> Backend
+    Backend --> Database
+    Backend --> Admin
