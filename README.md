@@ -1,322 +1,309 @@
 <div align="center">
 
-# ⚡ SANJAY KUMAR DAHARE
+# SANJAY KUMAR DAHARE
 
-### `BUILDING IDEAS INTO REAL-WORLD PRODUCTS`
+### `FULL-STACK DEVELOPER • BUILDER • PROBLEM SOLVER`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%92%BB;Full-Stack+Developer+in+Progress+%F0%9F%9A%80;React+%7C+Node.js+%7C+PostgreSQL;Building+Real-World+Projects;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Turning+ideas+into+working+products.;Building+real-world+web+applications.;React+%2B+Node.js+%2B+PostgreSQL.;Always+learning.+Always+building." />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MINDSET-LEARN%20%7C%20BUILD%20%7C%20IMPROVE-purple?style=for-the-badge" />
-
-<br/><br/>
-
-<a href="https://github.com/sanjaykumardahare2003-web">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github)](https://github.com/sanjaykumardahare2003-web)
+[![Profile Views](https://komarev.com/ghpvc/?username=sanjaykumardahare2003-web\&style=flat-square\&label=PROFILE+VIEWS)](https://github.com/sanjaykumardahare2003-web)
 
 </div>
 
 ---
 
-# 🖥️ `SANJAY.DEV`
+## `01` — WHO AM I?
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  USER        : Sanjay Kumar Dahare                           │
-│  ROLE        : Computer Science Student                      │
-│  MODE        : FULL-STACK DEVELOPMENT                        │
-│  STATUS      : 🟢 ONLINE                                     │
-│                                                              │
-│  FRONTEND    : React • TypeScript • Tailwind • Vite          │
-│  BACKEND     : Node.js • Express • PHP                       │
-│  DATABASE    : PostgreSQL • MySQL • MariaDB                  │
-│                                                              │
-│  CURRENTLY   : BUILDING + LEARNING                           │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  SANJAY KUMAR DAHARE                                       │
+│                                                             │
+│  Computer Science Student                                  │
+│  Full-Stack Developer in Progress                          │
+│                                                             │
+│  I build practical applications that solve real problems.  │
+│  I learn by creating, debugging, deploying and improving.  │
+│                                                             │
+│  CURRENT FOCUS                                             │
+│  ├── Modern Web Development                                │
+│  ├── Backend & REST APIs                                   │
+│  ├── PostgreSQL & Database Systems                         │
+│  ├── Cloud Deployment                                      │
+│  └── AI-powered Applications                               │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🧠 `ABOUT_ME`
-
-I'm a Computer Science student who enjoys **building practical software instead of only learning theory**.
-
-My journey started with basic web development and gradually moved toward full-stack applications, databases, APIs, cloud deployment and real-world projects.
-
-### What I like doing:
-
-* 💻 Building web applications
-* ⚛️ Creating modern React interfaces
-* 🔌 Developing REST APIs
-* 🗄️ Working with databases
-* ☁️ Deploying applications to the cloud
-* 🐛 Debugging and solving problems
-* 🚀 Turning ideas into working products
-
----
-
-# 🚀 `FEATURED_PROJECT`
+## `02` — TECHNOLOGY STACK
 
 <div align="center">
 
-## 🎨 MEHTA PAINTS & HARDWARE
+### FRONTEND
 
-### `A REAL BUSINESS → A REAL DIGITAL PRODUCT`
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" />
+
+### BACKEND & DATABASE
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,postgres,mysql" />
+
+### TOOLS & PLATFORMS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,vercel" />
 
 </div>
 
-A full-stack platform created for a real-world paint & hardware business.
+---
 
-### ✨ Features
+## `03` — FLAGSHIP PROJECT
+
+<div align="center">
+
+# 🎨 MEHTA PAINTS & HARDWARE
+
+### `REAL BUSINESS • REAL PRODUCT • REAL-WORLD IMPACT`
+
+</div>
+
+A full-stack digital platform developed for a real-world paint & hardware business.
+
+Instead of building another demo application, this project focuses on solving **actual business requirements**.
+
+### What it includes
+
+| Module                  | Description                            |
+| :---------------------- | :------------------------------------- |
+| 🛍️ **Product System**  | Product catalogue & management         |
+| 🎨 **Shade Experience** | Paint shade selection                  |
+| 🔐 **Admin System**     | Secure administrative controls         |
+| 📦 **Orders**           | Order & enquiry management             |
+| 📱 **WhatsApp**         | Customer communication workflow        |
+| 📊 **Analytics**        | Business management insights           |
+| ☁️ **Deployment**       | Cloud-hosted production architecture   |
+| 📱 **PWA**              | Mobile-friendly application experience |
+
+### Architecture
 
 ```text
-🛍️ Product Catalogue
-🎨 Paint Shade Selection
-🔐 Admin Authentication
-📦 Product Management
-📋 Order Management
-📱 WhatsApp Integration
-📊 Admin Analytics
-☁️ Cloud Deployment
-📱 Responsive / PWA Experience
-```
-
-### 🧩 Architecture
-
-```text
-                 ┌─────────────────┐
-                 │      USER       │
-                 └────────┬────────┘
+                         USER
                           │
                           ▼
-                ┌──────────────────┐
-                │     REACT UI     │
-                │  Vite + Tailwind │
-                └────────┬─────────┘
+              ┌─────────────────────┐
+              │      REACT APP      │
+              │   Vite + Tailwind   │
+              └──────────┬──────────┘
                          │
+                         │ REST API
                          ▼
-                ┌──────────────────┐
-                │    REST API      │
-                │ Node + Express   │
-                └────────┬─────────┘
+              ┌─────────────────────┐
+              │    NODE / EXPRESS   │
+              │    Backend Server   │
+              └──────────┬──────────┘
                          │
+                         │ ORM
                          ▼
-                ┌──────────────────┐
-                │    PostgreSQL    │
-                │  Drizzle ORM     │
-                └──────────────────┘
+              ┌─────────────────────┐
+              │     POSTGRESQL      │
+              │    Drizzle ORM      │
+              └─────────────────────┘
 ```
 
-### 🛠️ Tech Stack
+**Built with**
 
-`React` `TypeScript` `Tailwind CSS` `Vite`
-
-`Node.js` `Express.js` `PostgreSQL` `Drizzle ORM`
+`React` · `TypeScript` · `Tailwind CSS` · `Vite`
+`Node.js` · `Express.js` · `PostgreSQL` · `Drizzle ORM`
 
 ---
 
-# 🧪 `PROJECT_LAB`
+## `04` — OTHER BUILDS
 
 ### 🤖 Live Chatbot
 
-AI/web-based chatbot project exploring interactive conversations and application integration.
+Exploring conversational interfaces, AI concepts and web integration.
 
-**Technologies:** `Python` `AI` `Web`
+`Python` `AI` `Web`
 
 ---
 
 ### 🚦 Traffic Violation Application
 
-Application concept for managing traffic violation information.
+A web application concept for managing traffic violation information.
 
-**Technologies:** `PHP` `MySQL`
-
----
-
-### 📱 Android Applications
-
-Mobile application projects created while exploring Android development.
-
-**Technologies:** `Java` `Android Studio`
+`PHP` `MySQL`
 
 ---
 
 ### 🎓 Scholarship Portal
 
-Web application concept focused on scholarship-related workflows.
+A modern web application concept for scholarship-related workflows.
 
-**Technologies:** `React` `Tailwind CSS`
-
----
-
-# ⚡ `TECH_STACK`
-
-<div align="center">
-
-### 🌐 FRONTEND
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" />
-
-### ⚙️ BACKEND
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-
-### 🗄️ DATABASE
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-
-### 🧰 TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
-
-### ☁️ DEPLOYMENT
-
-<img src="https://skillicons.dev/icons?i=vercel" />
-
-</div>
+`React` `Tailwind CSS`
 
 ---
 
-# 🧬 `MY_DEVELOPER_EVOLUTION`
+### 📱 Android Applications
+
+Mobile applications developed while exploring Android development.
+
+`Java` `Android Studio`
+
+---
+
+## `05` — DEVELOPMENT JOURNEY
 
 ```text
-        HTML + CSS
-             │
-             ▼
-        JavaScript
-             │
-             ▼
-        PHP + MySQL
-             │
-             ▼
-       Java + Android
-             │
-             ▼
-    React + TypeScript
-             │
-             ▼
-     Node.js + Express
-             │
-             ▼
-   PostgreSQL + Drizzle
-             │
-             ▼
-    Cloud Deployment
-             │
-             ▼
-       FULL-STACK 🚀
+HTML / CSS
+    │
+    ▼
+JavaScript
+    │
+    ▼
+PHP + MySQL
+    │
+    ▼
+Java + Android
+    │
+    ▼
+React + TypeScript
+    │
+    ▼
+Node.js + Express
+    │
+    ▼
+PostgreSQL + Drizzle
+    │
+    ▼
+Cloud Deployment
+    │
+    ▼
+Full-Stack Development
+    │
+    ▼
+        🚀
 ```
 
 ---
 
-# 🎯 `CURRENT_MISSION`
+## `06` — CURRENTLY BUILDING
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                  CURRENT MISSION                         ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  [████████████████████░░░░] 85%                          ║
-║                                                          ║
-║  ▸ Master Full-Stack Development                         ║
-║  ▸ Build production-ready applications                   ║
-║  ▸ Improve backend & database skills                     ║
-║  ▸ Learn better system design                            ║
-║  ▸ Explore AI integrations                               ║
-║  ▸ Build useful real-world products                      ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+```javascript
+const focus = {
+    learning: [
+        "Advanced React",
+        "TypeScript",
+        "Backend Architecture",
+        "PostgreSQL",
+        "System Design"
+    ],
+
+    exploring: [
+        "AI Integration",
+        "Cloud Deployment",
+        "Production Applications"
+    ],
+
+    goal: "Build software people actually use."
+};
 ```
 
 ---
 
-# 📊 `GITHUB_ANALYTICS`
+## `07` — GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanjaykumardahare2003-web&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=sanjaykumardahare2003-web&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykumardahare2003-web&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=sanjaykumardahare2003-web&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykumardahare2003-web&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
 
 </div>
 
 ---
 
-# 🐍 `CONTRIBUTION_MATRIX`
+## `08` — CONTRIBUTION FLOW
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjaykumardahare2003-web&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-# 🧠 `DEVELOPER_PHILOSOPHY`
+## `09` — THE BUILD LOOP
 
 <div align="center">
 
-### `LEARN → BUILD → BREAK → DEBUG → IMPROVE`
-
-<br/>
-
-> **Every bug is a lesson.**
-> **Every project is an experiment.**
-> **Every deployment is progress.**
+```text
+        ┌──────────┐
+        │   IDEA   │
+        └────┬─────┘
+             ↓
+        ┌──────────┐
+        │   BUILD  │
+        └────┬─────┘
+             ↓
+        ┌──────────┐
+        │   TEST   │
+        └────┬─────┘
+             ↓
+        ┌──────────┐
+        │  DEBUG   │
+        └────┬─────┘
+             ↓
+        ┌──────────┐
+        │  DEPLOY  │
+        └────┬─────┘
+             ↓
+        ┌──────────┐
+        │ IMPROVE  │
+        └────┬─────┘
+             │
+             └──────────→ REPEAT
+```
 
 </div>
 
 ---
 
-# 💻 `TERMINAL`
+## `10` — TERMINAL
 
 ```bash
-$ whoami
+┌──(sanjay㉿github)-[~/development]
+└─$ ./about.sh
 
-Sanjay Kumar Dahare
+> Initializing...
 
-$ current_focus
+Name        : Sanjay Kumar Dahare
+Role        : Computer Science Student
+Focus       : Full-Stack Development
+Primary     : React / Node / PostgreSQL
+Environment : Windows / VS Code
+Status      : ● ONLINE
 
-Full-Stack Development
-
-$ favorite_stack
-
-React + Node.js + PostgreSQL
-
-$ next_goal
-
-Build something people actually use 🚀
-
-$ status
-
-Learning... Building... Improving...
+> Ready to build.
 ```
 
 ---
 
-# 🌐 `CONNECT_WITH_ME`
+## `11` — CONNECT
 
 <div align="center">
 
 <a href="https://github.com/sanjaykumardahare2003-web">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### 🚀 More projects coming soon...
+**More projects. More experiments. More things to build.**
 
 </div>
 
@@ -324,18 +311,10 @@ Learning... Building... Improving...
 
 <div align="center">
 
-## `THANKS FOR VISITING`
+### `BUILD SOMETHING THAT MATTERS.`
 
-<img src="https://komarev.com/ghpvc/?username=sanjaykumardahare2003-web&style=for-the-badge" />
+<br/>
 
-<br/><br/>
-
-### ⭐ Explore • Build • Learn • Repeat
-
-```text
-01000010 01010101 01001001 01001100 01000100
-```
-
-**Made with curiosity + code ☕**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
 
 </div>
