@@ -298,7 +298,7 @@ flowchart LR
 
 ---
 
-# Currently Learning
+# Tech I'm Exploring
 
 | Area | Technologies / Focus |
 |---|---|
