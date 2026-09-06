@@ -300,14 +300,17 @@ flowchart LR
 
 # Currently Learning
 
-| Area | Focus |
+| Area | Technologies / Focus |
 |---|---|
-| Frontend | React, TypeScript, Modern UI |
-| Backend | Node.js, Express, REST APIs |
-| Database | PostgreSQL, Drizzle ORM |
-| Security | Authentication & Protected APIs |
-| Cloud | Deployment & Production Configuration |
-| AI | Practical AI Integrations |
+| Frontend | React, TypeScript, Next.js |
+| Backend | Node.js, Express.js, REST APIs |
+| Database | PostgreSQL, Drizzle ORM, Redis |
+| API Development | REST, GraphQL |
+| DevOps | Docker, CI/CD, GitHub Actions |
+| Cloud | AWS, Vercel, Cloud Deployment |
+| AI | LLM APIs, AI Integration, AI-powered Applications |
+| Architecture | System Design, Scalable Applications, Microservices |
+| Security | Authentication, Authorization, Secure APIs |
 
 ---
 
