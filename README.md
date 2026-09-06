@@ -302,17 +302,27 @@ flowchart LR
 
 | Area | Technologies / Focus |
 |---|---|
-| Frontend | React, TypeScript, Next.js |
-| Backend | Node.js, Express.js, REST APIs |
-| Database | PostgreSQL, Drizzle ORM, Redis |
-| API Development | REST, GraphQL |
-| DevOps | Docker, CI/CD, GitHub Actions |
-| Cloud | AWS, Vercel, Cloud Deployment |
-| AI | LLM APIs, AI Integration, AI-powered Applications |
-| Architecture | System Design, Scalable Applications, Microservices |
-| Security | Authentication, Authorization, Secure APIs |
-
+| Frontend | React, TypeScript, Next.js, Tailwind CSS, Vite |
+| Mobile | Flutter, Dart, React Native, Android |
+| Backend | Node.js, Express.js, NestJS, Python, FastAPI |
+| Databases | PostgreSQL, MongoDB, Redis, Firebase |
+| APIs | REST, GraphQL, WebSockets, tRPC |
+| AI & GenAI | Python, LLM APIs, RAG, AI Agents, LangChain |
+| DevOps | Docker, Kubernetes, GitHub Actions, CI/CD |
+| Cloud | AWS, Vercel, Cloudflare, Serverless |
+| Architecture | System Design, Microservices, Distributed Systems |
+| Security | OAuth, JWT, Authentication, Authorization, API Security |
+| Testing | Jest, Vitest, Playwright, Postman |
+| Developer Tools | Git, GitHub, VS Code, Linux, npm, pnpm |
 ---
+
+### Learning Radar
+
+`Next.js` · `Flutter` · `Dart` · `React Native` · `NestJS`
+`FastAPI` · `MongoDB` · `Redis` · `GraphQL` · `Docker`
+`Kubernetes` · `AWS` · `Cloudflare` · `GitHub Actions`
+`Python` · `LLMs` · `RAG` · `AI Agents` · `LangChain`
+`System Design` · `Microservices` · `Playwright`
 
 # Developer Workflow
 
