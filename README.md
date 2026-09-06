@@ -84,24 +84,128 @@ The project combines customer-facing features with business management functiona
 - Cloud deployment
 
 ### Architecture
+Technology
 
-```mermaid
-flowchart LR
+React · TypeScript · Tailwind CSS · Vite
 
-    Customer["Customer"]
+Node.js · Express.js · PostgreSQL · Drizzle ORM
 
-    Frontend["React Frontend<br/>Vite + Tailwind"]
+Other Projects
+<table> <tr> <td width="50%" valign="top">
+Live Chatbot
 
-    API["REST API"]
+A chatbot project exploring conversational interfaces and application integration.
 
-    Backend["Node.js + Express"]
+Stack
 
-    Database[("PostgreSQL<br/>Drizzle ORM")]
+Python · AI · Web
 
-    Admin["Admin Dashboard"]
+</td> <td width="50%" valign="top">
+Traffic Violation Application
 
-    Customer --> Frontend
-    Frontend --> API
-    API --> Backend
-    Backend --> Database
-    Backend --> Admin
+A web application concept for managing traffic violation information.
+
+Stack
+
+PHP · MySQL
+
+</td> </tr> <tr> <td width="50%" valign="top">
+Scholarship Portal
+
+A modern web application concept focused on scholarship-related workflows.
+
+Stack
+
+React · Tailwind CSS
+
+</td> <td width="50%" valign="top">
+Android Applications
+
+Mobile applications developed while exploring Android development.
+
+Stack
+
+Java · Android Studio
+
+</td> </tr> </table>
+Development Journey
+What I'm Working On
+Current Priorities
+Build production-ready applications
+Improve backend architecture
+Strengthen database design
+Learn better system design
+Build more real-world products
+Explore practical AI integrations
+Development Workflow
+GitHub Activity
+<div align="center"> <a href="https://github.com/sanjaykumardahare2003-web?tab=repositories"> <img src="https://img.shields.io/badge/Explore_My_Repositories-0969DA?style=for-the-badge&logo=github&logoColor=white"> </a>
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/sanjaykumardahare2003-web?style=for-the-badge&label=FOLLOWERS&logo=github"> <img src="https://img.shields.io/github/stars/sanjaykumardahare2003-web?style=for-the-badge&label=STARS&logo=github"> <img src="https://komarev.com/ghpvc/?username=sanjaykumardahare2003-web&style=for-the-badge&label=PROFILE+VIEWS"> </div> <br>
+
+My GitHub activity reflects the projects, experiments and ideas I work on over time.
+
+Currently Learning
+Area	Focus
+Frontend	React, TypeScript, Modern UI
+Backend	Node.js, Express, REST APIs
+Database	PostgreSQL, Drizzle ORM
+Security	Authentication & Protected APIs
+Cloud	Deployment & Production Configuration
+AI	Practical AI Integrations
+Developer Workflow
+Developer Terminal
+$ whoami
+
+Sanjay Kumar Dahare
+
+$ role
+
+Computer Science Student
+
+$ focus
+
+Full-Stack Development
+
+$ frontend
+
+React / TypeScript / Tailwind
+
+$ backend
+
+Node.js / Express
+
+$ database
+
+PostgreSQL
+
+$ current_status
+
+Building & Learning
+
+$ next
+
+Build something useful.
+Roadmap
+Progress
+✓ Modern Web Development
+✓ Full-Stack Applications
+✓ Relational Databases
+✓ Cloud Deployment
+→ Advanced System Design
+→ Production Architecture
+→ AI Integrations
+→ Larger Real-World Applications
+Let's Connect
+<div align="center"> <a href="https://github.com/sanjaykumardahare2003-web"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://github.com/sanjaykumardahare2003-web?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-0969DA?style=for-the-badge&logo=github&logoColor=white"> </a>
+
+<br><br>
+
+Open to learning, building and collaborating on interesting projects.
+
+</div>
+<div align="center">
+Build. Learn. Ship. Improve.
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient" /> </div> ```
